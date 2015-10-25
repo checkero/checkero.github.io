@@ -1,0 +1,142 @@
+* {
+	margin: 0 auto;
+}
+
+body {
+	background-color: c;
+	/*border-top: 10px solid white;*/
+}
+
+header {
+	clear: both;
+	font-family: sans-serif;
+	width: 960px;
+	height: 150px;
+	color: #404957;
+	background-color: #FFF;
+}
+
+section {
+	clear: both;
+	margin: 0 auto;
+	width: 960px;
+	height: 500px;
+	color: #404957;
+	background-color: #FFF;
+}
+
+.featurephoto {
+	padding-top: 20px;
+
+}
+
+a {
+	text-decoration: none;
+	color: #3C3C3C;
+	font-family: 'Yanone Kaffeesatz', sans-serif; 
+	font-weight: 500;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+a:hover {
+	color: #FEE202;
+}
+
+
+.topnav1, .topnav2 {
+	margin: 0px 20px;
+    float: left;
+}
+
+
+.topnav3 {
+    margin: 1px 20px 0px 20px;
+    float: left;
+}
+
+.topnav4, .topnav5 {
+   margin: 0px 20px;
+   float: right
+}
+
+.navleft{
+	float: left;
+	margin: 60px 140px 60px 90px;
+}
+
+
+.navright {
+	float: right;
+	margin: 60px 90px 60px 0px;
+}
+
+
+h3 {
+
+	border-bottom: 1.5px solid #3C3C3C;
+	padding-bottom: 15px;
+	padding-top: 10px; 
+	font-family: 'Arvo', serif;
+	font-weight: 400; 
+	font-size: 10px;
+	text-align: center;
+	line-height: 175%;
+	letter-spacing: .5px;
+}
+
+
+footer {
+	clear: both;
+	font-family: sans-serif;
+	width: 960px;
+	height: 100px;
+	color: #3C3C3C;
+	background-color: #3C3C3C;
+}
+
+
+
+
+.instagram {
+	padding-top: 30px;
+	padding-right: 80px;
+	float: right;
+
+}
+
+
+article {
+	clear: both;
+	padding-top: 50px;
+	width: 600px;
+	height: 300px;
+	color: #404957;
+	background-color: #FFF;
+	text-align: center;
+
+}
+
+p {
+	color: #3C3C3C;
+	font-family: 'Yanone Kaffeesatz', sans-serif; 
+	font-weight: 300;
+	font-size: 14px;
+	letter-spacing: 1px;
+}
+
+h1 {
+	color: #3C3C3C;
+	font-family: 'Arvo', serif;
+	font-weight: 400; 
+	font-size: 20px;
+	letter-spacing: 2px;
+	}
+
+
+}
+
+
+
+
+
