@@ -3,7 +3,7 @@
 }
 
 body {
-	background-color: f2f2f3;
+	background-color: #f2f2f3;
 	/*border-top: 10px solid white;*/
 }
 
@@ -109,9 +109,8 @@ footer {
 article {
 	clear: both;
 	padding-top: 50px;
-	width: 600px;
+	width: 960px;
 	height: 300px;
-	color: #404957;
 	background-color: #FFF;
 	text-align: center;
 
@@ -126,6 +125,7 @@ p {
 }
 
 h1 {
+	width: 600px;
 	color: #3C3C3C;
 	font-family: 'Arvo', serif;
 	font-weight: 400; 
